@@ -1,0 +1,18 @@
+[2020-10-16 23:13:46]	compilation failed at : "c:\Users\Administrator\Desktop\test_VSC\test_1\src\main.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-17 02:04:48]	compilation failed at : "c:\Users\Administrator\Desktop\test_VSC\test_1\src\main.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-17 02:24:19]	compilation failed at : "c:\Users\Administrator\Desktop\test_VSC\test_1\src\main.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-17 02:31:51]	link failed !, exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-17 03:08:26]	compilation failed at : "c:\Users\Administrator\Desktop\test_VSC\test_1\src\main.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+
+[2020-10-17 16:04:01]	compilation failed at : "c:\Users\weiyh\Desktop\SingleChip\STM32\test_1\src\main.c", exit code: 1
+   在 ARM_Builder_V6.Program.Main(String[] args)
+

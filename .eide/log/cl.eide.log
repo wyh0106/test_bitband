@@ -1,0 +1,30 @@
+
+[C6A6ACAE-3654-7BC9-2AD1-2CFDA1BB5360] : log at : 2020/10/16|21:54:14|GMT+0800
+
+
+
+[C6A6ACAE-3654-7BC9-2AD1-2CFDA1BB5360] : log at : 2020/10/17|03:17:56|GMT+0800
+
+
+
+[8AFB74B2-880A-11E9-A784-98FA9B2FBBF5] : log at : 2020/10/17|12:04:52|GMT+0800
+
+
+
+[8AFB74B2-880A-11E9-A784-98FA9B2FBBF5] : log at : 2020/10/17|14:25:56|GMT+0800
+
+
+
+[8AFB74B2-880A-11E9-A784-98FA9B2FBBF5] : log at : 2020/10/17|21:54:42|GMT+0800
+
+
+[Hidden] : Failed to connect 'api.github.com/repos/github0null/ARM_Builder_V6/contents/ARM_Builder_V6'
+Error: getaddrinfo ENOTFOUND api.github.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+
+[8AFB74B2-880A-11E9-A784-98FA9B2FBBF5] : log at : 2020/10/17|21:54:51|GMT+0800
+[Hidden] : Failed to connect 'api.github.com/repos/github0null/ARM_Builder_V6/contents/ARM_Builder_V6'
+Error: getaddrinfo ENOTFOUND api.github.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+
+[8AFB74B2-880A-11E9-A784-98FA9B2FBBF5] : log at : 2020/10/18|12:57:10|GMT+0800

@@ -1,0 +1,10 @@
+--cpu Cortex-M3 --library_type=microlib --scatter "c:\Users\weiyh\Desktop\SingleChip\STM32\test_1\out\Release\test_1.sct" --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols --info sizes --info totals --info unused --info veneers
+--list .\out\Release\test_1.map
+.\out\Release\stm32f10x_rcc.o
+.\out\Release\stm32f10x_gpio.o
+.\out\Release\misc.o
+.\out\Release\stm32f10x_it.o
+.\out\Release\system_stm32f10x.o
+.\out\Release\main.o
+.\out\Release\SysTick.o
+.\out\Release\startup_stm32f10x_hd.o -o .\out\Release\test_1.axf
